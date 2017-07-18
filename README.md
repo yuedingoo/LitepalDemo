@@ -1,0 +1,2 @@
+# LitepalDemo
+include SQLite CRUD
